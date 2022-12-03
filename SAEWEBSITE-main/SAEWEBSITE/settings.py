@@ -29,7 +29,7 @@ DEBUG = True
 # CORS_ALLOW_ALL_ORIGINS = True
 # CORS_ALLOW_CREDENTIALS = True
 
-ALLOWED_HOSTS = ['saewebsiteapi.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['kushal-sarda.github.io/Sae-Web/', 'localhost', '127.0.0.1']
 
 
 # Application definition
